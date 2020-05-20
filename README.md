@@ -1,4 +1,5 @@
-# STOP This tool delete files from your drive. Be extremely careful to use!
+# STOP! This tool deletes files from your drive.
+Be extremely careful to use.
 
 # cleanpm
 A small project to clean npm_modules folders under a certain directory and all its sub-directories.
